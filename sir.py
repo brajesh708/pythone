@@ -120,7 +120,8 @@ print(z)
 
 # x="neeraj"
 # y='10'
-# x=int(x)
+# x=int(x) 
+
 # print(type(x))
 # print(type(y))
 
