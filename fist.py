@@ -16,11 +16,11 @@ print(type(age))
 
 print(type(price))  """
 
-
-# x= 10
-# y= 10
-# print(id(x))
-# print(id(y))
+# x or y ko insilazintion
+x= 10
+y= 10
+print(id(x))
+print(id(y))
 
 
 # x= 10
