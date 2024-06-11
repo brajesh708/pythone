@@ -7,11 +7,11 @@ while (i<=n):
     i=i+1
 
 
-# n=int(input("enter number"))
-# i=1
-# while (i<=n):
-#     print(n*'*')
-#     n=n-i
+n=int(input("enter number"))
+i=1
+while (i<=n):
+    print(n*'*')
+    n=n-i
     
     
 # n=int(input("enter number"))
